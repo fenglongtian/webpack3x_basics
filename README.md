@@ -6,3 +6,5 @@ npm install
 npm run dev
 # build
 npm run build
+
+如果觉的文档与代码配置还可以记得start一下，谢谢！！！
