@@ -1,4 +1,4 @@
-# webpack3x_feng
+# webpack3x_basics
 这里是webpack3+jquery+Bootstrap3配置一个基础模板，实战文档内容在https://fenglongtian.gitbooks.io/webpack3x/content
 # 安装
 npm install
